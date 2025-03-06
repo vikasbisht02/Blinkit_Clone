@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://linkedin-clone-i11c.onrender.com" target="_blank">BlinkIt-Clone-Full-Stack-Ecommerce ✨</a></h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+![Demo App](/frontend/public/blinkit.png)
 
 ### Setup .env file
 
